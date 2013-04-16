@@ -34,3 +34,5 @@ Enjoy!!!
 Let it Begin!
 = 0.2 =
 Local CSS & Image Reference
+= 0.3 =
+Fixed strip display issue

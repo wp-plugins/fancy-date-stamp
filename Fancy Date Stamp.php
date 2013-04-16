@@ -1,12 +1,12 @@
 <?php
 /**
  * @package Fancy Date Stamp
- * @version 0.2
+ * @version 0.3
  */
 /*
 Plugin Name: Fancy Date Stamp
 Description: This provides you with a nice way of displaying the date in your posts. This took a whole day *sigh* amateur hour.
-Version: 0.2
+Version: 0.3
 Author: Mark Coker
 License: None (Open Domain)
 */
@@ -41,7 +41,7 @@ $style="<style type='text/css'>
 		width: auto;
 		display: block;
 
-		background: transparent url('".	plugins_url( 'assets/strips.jpg' , __FILE__ )."') 100% 0 repeat-y;
+		background: transparent url('".	plugins_url( 'images/strips.jpg' , __FILE__ )."') 100% 0 repeat-y;
 		width: 25px;
 		padding-right:15px;
 	}
