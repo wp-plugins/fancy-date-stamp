@@ -22,6 +22,7 @@ Enjoy!!!
 == Installation ==
 
 1. Activate the plugin through the 'Plugins' menu in WordPress
+2. Type [date-stamp] in your post. It will then appear correctly in post.
 
 == Screenshots ==
 
